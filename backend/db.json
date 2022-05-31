@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "name": "Alexa",
+      "price": "250.00",
+      "id": 1
+    }
+  ]
+}
